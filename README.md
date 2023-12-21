@@ -1,5 +1,5 @@
 ________About Me________
-👋 Hi, I’m @SPYDIANKIT. Welcome to my GitHub profile!
+👋 Hi, I’m ANKIT. Welcome to my GitHub profile!
 👀 I’m interested in web development and exploring various technologies to build amazing web applications.
 🌱 I’m currently learning Django and Python to enhance my skills in full-stack web development.
 💞️ I’m looking to collaborate on exciting projects that involve web development using Python and Django.
