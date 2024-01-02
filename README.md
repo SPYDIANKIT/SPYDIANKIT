@@ -13,7 +13,7 @@ I'm actively working on improving my web development skills, and you can find so
 ________How to Reach Me__________
 If you'd like to get in touch or collaborate on a project, you can reach me through the following channels:
 
-GitHub: @SPYDIANKIT
+
 Email: ankityadav1234567890i@gmail.com
 LinkedIn: linkedin.com/in/ankit-yadav-525466197
 
