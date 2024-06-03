@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **ankityadav.coder@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/drive/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
